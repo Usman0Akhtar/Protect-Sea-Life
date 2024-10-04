@@ -1,1 +1,3 @@
-*.processing linguist-detectable=false
+# Treat all .pde files as Java
+*.pde linguist-language=Java
+
